@@ -7,6 +7,6 @@ public class demo
 @Test
 public void demo1()
 {
-	System.out.println("new test");
+	System.out.println("this is new script");
 }
 }
